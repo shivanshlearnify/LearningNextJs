@@ -1,3 +1,3 @@
 
 1 -> Creating next app
-2 -> 
+2 -> Creating initial pages
